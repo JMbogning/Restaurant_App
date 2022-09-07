@@ -1,0 +1,17 @@
+#sidebar a  {
+    color: white;
+}
+
+#sidebar i  {
+    color: white;
+}
+
+#sidebar a:hover {
+    color: lightblue;
+}
+
+.user-body a:hover {
+    color: lightblue;
+}
+
+
